@@ -13,9 +13,6 @@ import com.ishan1608.JokeSmith;
 import com.ishan1608.jokelibrary.JokeActivity;
 
 
-/**
- * A placeholder fragment containing a simple view.
- */
 public class MainActivityFragment extends Fragment {
 
     public MainActivityFragment() {
